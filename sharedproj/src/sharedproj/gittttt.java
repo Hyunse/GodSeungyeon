@@ -1,5 +1,5 @@
 package sharedproj;
 
-public class Git2 {
+public class gittttt {
 
 }
